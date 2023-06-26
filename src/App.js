@@ -24,7 +24,7 @@ const App = () => {
 
   return <div>
     <img src={img} width={100} height={100} className="logo"/>
-  <h1 className="app-title">React TaskManager</h1>
+  <h1 className="app-title">React TaskLister</h1>
   <div className="container">
     Add Tasks 
     <br/>
